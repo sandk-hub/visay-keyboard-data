@@ -16,6 +16,36 @@
     "IPAdic (NAIST) + ICOT Free Software",
     "Okinawa Dictionary (public domain)"
    ]
+  },
+  {
+   "id": "kbpack-zh-hans",
+   "lang": "zh-Hans",
+   "format_version": 1,
+   "data_version": "aosp-49aebad1-s400",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-zh-hans-aosp-49aebad1-s400/zh-Hans.bin.gz",
+   "gz_bytes": 1154044,
+   "gz_sha256": "100d428117626ace2dbb9bb94e64d73167709bfff71c575cb8178e7c63f0a2da",
+   "bytes": 2943072,
+   "sha256": "b5d876b51baff988da46da6b70f477ff601cc3d3470c6d449e16e1eb8f1af944",
+   "licenses": [
+    "Apache-2.0 (AOSP PinyinIME)"
+   ]
+  },
+  {
+   "id": "kbpack-zh-hant",
+   "lang": "zh-Hant",
+   "format_version": 1,
+   "data_version": "mcbpmf-be6564ac-u18-s400",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-zh-hant-mcbpmf-be6564ac-u18-s400/zh-Hant.bin.gz",
+   "gz_bytes": 5006300,
+   "gz_sha256": "e3732429ab77396e1c3d279928a617e36cfb36c7449c38fe295da331c9baee34",
+   "bytes": 14409508,
+   "sha256": "760846a4a589895ae3f92aecdf9dd03479b9019e4d72e136ecf1b12718032bed",
+   "licenses": [
+    "MIT (McBopomofo)",
+    "BSD (libtabe tsi.src)",
+    "Unicode License v3 (Unihan kCangjie)"
+   ]
   }
  ]
 }
