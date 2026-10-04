@@ -16,6 +16,20 @@
     "IPAdic (NAIST) + ICOT Free Software",
     "Okinawa Dictionary (public domain)"
    ]
+  },
+  {
+   "id": "kbpack-zh-hans",
+   "lang": "zh-Hans",
+   "format_version": 1,
+   "data_version": "aosp-49aebad1-s400",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-zh-hans-aosp-49aebad1-s400/zh-Hans.bin.gz",
+   "gz_bytes": 1154044,
+   "gz_sha256": "100d428117626ace2dbb9bb94e64d73167709bfff71c575cb8178e7c63f0a2da",
+   "bytes": 2943072,
+   "sha256": "b5d876b51baff988da46da6b70f477ff601cc3d3470c6d449e16e1eb8f1af944",
+   "licenses": [
+    "Apache-2.0 (AOSP PinyinIME)"
+   ]
   }
  ]
 }
