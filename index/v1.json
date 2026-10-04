@@ -109,6 +109,20 @@
     "BSD (libtabe tsi.src)",
     "Unicode License v3 (Unihan kCangjie)"
    ]
+  },
+  {
+   "id": "kbpack-en",
+   "lang": "en",
+   "format_version": 2,
+   "data_version": "aosp-en-us-v54",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-en-aosp-en-us-v54/en.bin.gz",
+   "gz_bytes": 2144832,
+   "gz_sha256": "7e3fab9dd8748ea79cc9e79903758272e0e72634ef5f59fbf116cf873e0118fc",
+   "bytes": 8587072,
+   "sha256": "12114a8ed9d35117418154a772ef7bb1854ce0a7d98cdd49dee98c72a73a731c",
+   "licenses": [
+    "Apache-2.0 (AOSP LatinIME en_US wordlist)"
+   ]
   }
  ]
 }
