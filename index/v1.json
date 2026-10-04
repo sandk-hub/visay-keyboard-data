@@ -46,6 +46,53 @@
     "BSD (libtabe tsi.src)",
     "Unicode License v3 (Unihan kCangjie)"
    ]
+  },
+  {
+   "id": "kbpack-ja",
+   "lang": "ja",
+   "format_version": 2,
+   "data_version": "mozc-c7538e6f-c7000-f2",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-ja-mozc-c7538e6f-c7000-f2/ja.bin.gz",
+   "gz_bytes": 8100735,
+   "gz_sha256": "e4bb5f63f25f7056311f65eca0f27d7051fdb56aa09b333675860b3bda7aa217",
+   "bytes": 16005528,
+   "sha256": "6596856edf86523f32fdf72d9c9913eaa9eedddcc7dff4fac8a138960d6c6005",
+   "licenses": [
+    "BSD-3-Clause (Mozc)",
+    "IPAdic (NAIST) + ICOT Free Software",
+    "Okinawa Dictionary (public domain)"
+   ]
+  },
+  {
+   "id": "kbpack-zh-hans",
+   "lang": "zh-Hans",
+   "format_version": 2,
+   "data_version": "aosp-49aebad1-s400-hplt2",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-zh-hans-aosp-49aebad1-s400-hplt2/zh-Hans.bin.gz",
+   "gz_bytes": 1902688,
+   "gz_sha256": "50d79588a1d40c7357de3a963d6f0795f712eb814bf7c31503670cdb4000f596",
+   "bytes": 4207888,
+   "sha256": "c0ac0857cd3d8fcf39a077c7efd8d175936799f3ff32b0f90aca57fb892ac934",
+   "licenses": [
+    "Apache-2.0 (AOSP PinyinIME)",
+    "CC0-1.0 (HPLT Datasets v2.0 packaging; bigram statistics only)"
+   ]
+  },
+  {
+   "id": "kbpack-zh-hant",
+   "lang": "zh-Hant",
+   "format_version": 2,
+   "data_version": "mcbpmf-be6564ac-u18-s400-f2",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-zh-hant-mcbpmf-be6564ac-u18-s400-f2/zh-Hant.bin.gz",
+   "gz_bytes": 4085484,
+   "gz_sha256": "5eeeb65be47e9320aed0245e3f267abbfca59b8c96bf79140f0e1e5fd1bac118",
+   "bytes": 12790332,
+   "sha256": "2cf6928a78778ec7389914c794aaa01bb2a5bbebad50dfda42eda1ecc8b81d99",
+   "licenses": [
+    "MIT (McBopomofo)",
+    "BSD (libtabe tsi.src)",
+    "Unicode License v3 (Unihan kCangjie)"
+   ]
   }
  ]
 }
