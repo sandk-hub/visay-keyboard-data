@@ -30,6 +30,22 @@
    "licenses": [
     "Apache-2.0 (AOSP PinyinIME)"
    ]
+  },
+  {
+   "id": "kbpack-zh-hant",
+   "lang": "zh-Hant",
+   "format_version": 1,
+   "data_version": "mcbpmf-be6564ac-u18-s400",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-zh-hant-mcbpmf-be6564ac-u18-s400/zh-Hant.bin.gz",
+   "gz_bytes": 5006300,
+   "gz_sha256": "e3732429ab77396e1c3d279928a617e36cfb36c7449c38fe295da331c9baee34",
+   "bytes": 14409508,
+   "sha256": "760846a4a589895ae3f92aecdf9dd03479b9019e4d72e136ecf1b12718032bed",
+   "licenses": [
+    "MIT (McBopomofo)",
+    "BSD (libtabe tsi.src)",
+    "Unicode License v3 (Unihan kCangjie)"
+   ]
   }
  ]
 }
