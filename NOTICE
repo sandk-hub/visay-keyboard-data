@@ -474,3 +474,18 @@ Except as contained in this notice, the name of a copyright holder shall
 not be used in advertising or otherwise to promote the sale, use or other
 dealings in these Data Files or Software without prior written
 authorization of the copyright holder.
+
+===============================================================================
+kbpack-zh-hans, kbpack-zh-hant (format v2) — word bigram tables derived from HPLT Datasets v2.0
+(cleaned, zho_Hans and zho_Hant)
+https://hplt-project.org/datasets/v2.0
+===============================================================================
+
+The HPLT project releases its dataset packaging under Creative Commons CC0 1.0 Universal.
+HPLT states that it does not own the underlying web texts; rights in those texts remain with
+their respective authors. These packs contain NO corpus text: only aggregated adjacent-word
+co-occurrence costs computed over a streamed sample of the corpus, segmented with the pack's own
+dictionary (tools/kb-packs/hplt_bigram.py in the Visay repository).
+
+HPLT: High Performance Language Technologies, funded by the European Union's Horizon Europe
+programme (grant agreement No 101070350) and UK Research and Innovation.
