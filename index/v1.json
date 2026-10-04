@@ -1,0 +1,21 @@
+{
+ "format_version": 1,
+ "packs": [
+  {
+   "id": "kbpack-ja",
+   "lang": "ja",
+   "format_version": 1,
+   "data_version": "mozc-c7538e6f-c7000",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-ja-mozc-c7538e6f-c7000/ja.bin.gz",
+   "gz_bytes": 8278280,
+   "gz_sha256": "2e59f765225fb836ccf260c70708059207a986a72b5a2ab7caa2f842d7baf27f",
+   "bytes": 16513428,
+   "sha256": "eaaec968f54b81771d8cfa9d44284f851bfc89a2e4be563000da057150176954",
+   "licenses": [
+    "BSD-3-Clause (Mozc)",
+    "IPAdic (NAIST) + ICOT Free Software",
+    "Okinawa Dictionary (public domain)"
+   ]
+  }
+ ]
+}
