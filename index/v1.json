@@ -93,6 +93,22 @@
     "BSD (libtabe tsi.src)",
     "Unicode License v3 (Unihan kCangjie)"
    ]
+  },
+  {
+   "id": "kbpack-zh-hant",
+   "lang": "zh-Hant",
+   "format_version": 2,
+   "data_version": "mcbpmf-be6564ac-u18-s400-f2-sc",
+   "url": "https://github.com/sandk-hub/visay-keyboard-data/releases/download/kbpack-zh-hant-mcbpmf-be6564ac-u18-s400-f2-sc/zh-Hant.bin.gz",
+   "gz_bytes": 4179925,
+   "gz_sha256": "a87dc58a16a65575a72121948f9ae42f6b4340a1fc761da42772249a1f879e98",
+   "bytes": 13149624,
+   "sha256": "040d9ef9ab85d53293b26e32af32dd3d0b524f52b874a38ace147e876bb885d2",
+   "licenses": [
+    "MIT (McBopomofo)",
+    "BSD (libtabe tsi.src)",
+    "Unicode License v3 (Unihan kCangjie)"
+   ]
   }
  ]
 }
