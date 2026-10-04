@@ -10,4 +10,9 @@ Language data packs for the **Visay** keyboard (Android IME and iOS keyboard ext
 
 The keyboard downloads only the pack for the language a user actually types. Packs are attached to [Releases](../../releases) together with a `pack.json` manifest (`sha256`, format version, licenses). The app verifies the checksum before using a pack.
 
-Status: the Japanese pack format is in a measurement spike. No release has been published yet.
+Apps read the pack index for their format version from
+`https://raw.githubusercontent.com/sandk-hub/visay-keyboard-data/main/index/v1.json`. Each pack entry has `url`, `gz_bytes`, `gz_sha256`, `bytes`, `sha256`, `data_version`, `licenses`. The app downloads the `.gz`, verifies both checksums, decompresses it once and memory-maps the result.
+
+| Pack | Release |
+|---|---|
+| `kbpack-ja` | [`kbpack-ja-mozc-c7538e6f-c7000`](../../releases/tag/kbpack-ja-mozc-c7538e6f-c7000), 8.3 MB download, 16.5 MB on device |
